@@ -51,13 +51,3 @@ model.fit([X_eeg, X_fmri], y)
 # Make predictions
 predictions = model.predict([X_eeg_test, X_fmri_test])
 ```
-
-## License
-
-[Your chosen license]
-
-## Citation
-
-If you use this code in your research, please cite:
-
-[Your citation information]
