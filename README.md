@@ -1,6 +1,7 @@
 # Tri-SeizureDualNet
 
 A deep learning model for seizure detection using dual-stream neural network architecture that processes both EEG and fMRI data.
+ 
 
 ## Features
 
