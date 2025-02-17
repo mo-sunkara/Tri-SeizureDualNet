@@ -32,7 +32,7 @@ A deep learning model for seizure detection using dual-stream neural network arc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Tri-SeizureDualNet.git
+git clone https://github.com/mo-sunkara/Tri-SeizureDualNet
 cd Tri-SeizureDualNet
 ```
 
