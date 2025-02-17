@@ -1,7 +1,6 @@
 # Tri-SeizureDualNet
 
 A deep learning model for seizure detection using dual-stream neural network architecture that processes both EEG and fMRI data.
- 
 
 ## Features
 
@@ -10,6 +9,18 @@ A deep learning model for seizure detection using dual-stream neural network arc
 - Memory-efficient data loading for large datasets
 - Balanced batch generation for handling imbalanced datasets
 - Mixed precision training for improved performance
+
+## System Requirements
+
+### Hardware Requirements
+- RAM: Minimum 32GB (recommended for handling large EEG/fMRI datasets)
+- GPU: NVIDIA GPU with at least 8GB VRAM (recommended for faster training)
+- Storage: At least 100GB free space for datasets and model checkpoints
+
+### Software Requirements
+- Operating System: Windows 10/11, Linux (Ubuntu 18.04 or later), or macOS
+- CUDA Toolkit 11.0 or later (for GPU support)
+- cuDNN 8.0 or later (for GPU support)
 
 ## Requirements
 
